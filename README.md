@@ -30,3 +30,10 @@ Some filters are intentionally deactivated:
 - `Noise Reduction` might come handy on *very* poor recordings of voice, where you may want to blend out background noise.
 
 Note: The first equalizer are intentionally empty, it is used to reduce the input volume to roughtly the same amount the second EQ changes it. So it won't blow your ears out to deactivate the (real) second EQ, if you want to compare.
+
+
+## Known issues
+
+- Base is to "rumbly" on some tracks, especially Agrotech and Hip-Hop/Rap.
+- Brights (around 3kHz) may sound to harsh on some tracks, especially Agrotech.
+- Requires high volume listening, otherwise fill fall flat. Loudness filter on top does absolutly not help to improve this.
