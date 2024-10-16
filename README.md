@@ -34,6 +34,6 @@ Note: The first equalizer are intentionally empty, it is used to reduce the inpu
 
 ## Known issues
 
-- Base is to "rumbly" on some tracks, especially Agrotech and Hip-Hop/Rap.
-- Brights (around 3kHz) may sound to harsh on some tracks, especially Agrotech.
+- <strike>Base is to "rumbly" on some tracks, especially Agrotech and Hip-Hop/Rap.</strike>
+- <strike>Brights (around 3kHz) may sound to harsh on some tracks, especially Agrotech.</strike>
 - Requires high volume listening, otherwise fill fall flat. Loudness filter on top does absolutly not help to improve this.
