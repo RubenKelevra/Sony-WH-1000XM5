@@ -28,3 +28,5 @@ Some filters are intentionally deactivated:
 - `Deesser` might come handy on poor audio recordings on voice
 - `Filter` comes handy on poor audio recordings with microphone rumbing
 - `Noise Reduction` might come handy on *very* poor recordings of voice, where you may want to blend out background noise.
+
+Note: The first equalizer are intentionally empty, it is used to reduce the input volume to roughtly the same amount the second EQ changes it. So it won't blow your ears out to deactivate the (real) second EQ, if you want to compare.
