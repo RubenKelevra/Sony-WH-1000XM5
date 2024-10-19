@@ -17,6 +17,13 @@ Create a Equalizer in the App for the WH-1000XM5:
 You need [EasyEffects](https://github.com/wwmm/easyeffects) to load the equalizer settings file.
 
 ## Usage
+
+### Versions to use
+
+If you like a more open sound with large bass, use version 0.5.1 - which was my original EQ.
+
+If you like a more easy listen experience with less bass and lower brights, use 0.5.9.1 - this one also works better with some electronic music with a lot bass boosts, like Agrotech.
+
 ### Load the profile 
 
 You can load the profile including the Equalizer settings from the most up-to-date version under `/profiles`.
