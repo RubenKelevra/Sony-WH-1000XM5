@@ -16,13 +16,27 @@ Create a Equalizer in the App for the WH-1000XM5:
 
 You need [EasyEffects](https://github.com/wwmm/easyeffects) to load the equalizer settings file.
 
+## Versions
+
+#### _Clear_
+
+Open sound with high brights and deep bass down to bass woofer level.
+
+Works best for natural recorded music without much editing, movies without many "sound effects" and similar.
+
+#### _Balanced_
+
+Open sound with high brights with a more balanced bass response.
+
+Works best for semi-natural recorded music, where "bass enhancements" took place, or heavy compression was used. Works with some movies, if not too much bass effects were used.
+
+#### _Universal_
+
+Muted brights, with lower bass response and muted lower mids.
+
+Works best for music which was heavily edited, like Agrotech, EDM, Pop Music, Hip-Hop and Movies with heavy soundeffects, where the bassline would just drown out the details otherwise. In short it's more for an easy listening experince where the sound editors expected bad playback devices.
+
 ## Usage
-
-### Versions to use
-
-If you like a more open sound with large bass, use **version 0.5.1** - which was my original EQ.
-
-If you like a more easy listen experience with less bass and lower brights, use **version 0.5.9.1** - this one also works better with some electronic music with a lot bass boosts, like Agrotech.
 
 ### Load the profile 
 
