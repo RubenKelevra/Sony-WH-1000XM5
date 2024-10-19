@@ -7,7 +7,7 @@
             "output-gain": -10.0,
             "reference": "Integrated",
             "silence-threshold": -38.0,
-            "target": -17.0
+            "target": -19.0
         },
         "blocklist": [],
         "deesser#0": {
