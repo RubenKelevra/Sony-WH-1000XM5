@@ -20,9 +20,9 @@ You need [EasyEffects](https://github.com/wwmm/easyeffects) to load the equalize
 
 ### Versions to use
 
-If you like a more open sound with large bass, use version 0.5.1 - which was my original EQ.
+If you like a more open sound with large bass, use **version 0.5.1** - which was my original EQ.
 
-If you like a more easy listen experience with less bass and lower brights, use 0.5.9.1 - this one also works better with some electronic music with a lot bass boosts, like Agrotech.
+If you like a more easy listen experience with less bass and lower brights, use **version 0.5.9.1** - this one also works better with some electronic music with a lot bass boosts, like Agrotech.
 
 ### Load the profile 
 
