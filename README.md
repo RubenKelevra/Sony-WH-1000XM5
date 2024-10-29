@@ -34,7 +34,7 @@ Works best for semi-natural recorded music, where "bass enhancements" took place
 
 Muted brights, with lower bass response and muted lower mids.
 
-Works best for music which was heavily edited, like Agrotech, EDM, Pop Music, Hip-Hop and Movies with heavy soundeffects, where the bassline would just drown out the details otherwise. In short it's more for an easy listening experince where the sound editors expected bad playback devices.
+Works best for music which was heavily edited, like Agrotech, EDM, Pop Music, Hip-Hop and Movies with heavy soundeffects, where the bassline would just drown out the details otherwise. In short it's more for an easy listening experience where the sound editors expected bad playback devices.
 
 ## Usage
 
