@@ -4,7 +4,39 @@ Equalizer preset for Sony WH-1000XM5
 
 ## Precondition
 
-### Internal Equalizer
+### Version 2.0 alpha
+
+#### Internal Equalizer
+
+<img src="EQ Sony XM5.png" alt="Flat App Equalizer Settings, Bass +8" height="600"/>
+
+#### Programs
+
+You need [EasyEffects](https://github.com/wwmm/easyeffects) to load the equalizer settings file.
+
+#### Impulse files
+
+1) You need the Headphone Correction Filters from the [ASH-Listening-Set](https://github.com/ShanonPearce/ASH-Listening-Set) for the Sony WH-1000XM5:
+
+`HpCF_Sony_WH_1000XM5.wav` from [folder HpCFs/FIRs_Stereo/Sony](https://github.com/ShanonPearce/ASH-Listening-Set/tree/main/HpCFs/FIRs_Stereo/Sony)
+
+_[More info about this filter](https://github.com/ShanonPearce/ASH-Listening-Set/wiki/Headphone-Correction-Filters)_
+
+2) You need the Diffuse-Field Target to ASH Over-Ear+On-Ear Target from the [ASH-Listening-Set](https://github.com/ShanonPearce/ASH-Listening-Set):
+
+`Diffuse-Field_Target_to_ASH_Over-Ear+On-Ear_Target.wav` from [folder Additional_Filters/FIRs_Stereo](https://github.com/ShanonPearce/ASH-Listening-Set/tree/main/Additional_Filters/FIRs_Stereo)
+
+_[More info about this filter](https://github.com/ShanonPearce/ASH-Listening-Set/wiki/Additional-Filters)_
+
+3) You need the Low Frequency Roll-off Compensation from [ASH-Listening-Set](https://github.com/ShanonPearce/ASH-Listening-Set):
+
+`Low_Frequency_Roll-off_Compensation.wav` from [folder Additional_Filters/FIRs_Stereo](https://github.com/ShanonPearce/ASH-Listening-Set/tree/main/Additional_Filters/FIRs_Stereo)
+
+_[More info about this filter](https://github.com/ShanonPearce/ASH-Listening-Set/wiki/Additional-Filters)_
+
+### Version 1.0
+
+#### Internal Equalizer
 
 Create a Equalizer in the App for the WH-1000XM5:
 
@@ -12,25 +44,25 @@ Create a Equalizer in the App for the WH-1000XM5:
 
 [Source](https://www.reddit.com/r/SonyHeadphones/comments/14plfz0/wh1000xm5_a_guide_for_maximizing_audio_quality/)
 
-### Programs
+#### Programs
 
 You need [EasyEffects](https://github.com/wwmm/easyeffects) to load the equalizer settings file.
 
-## Versions
+#### Profiles
 
-#### _Clear_
+**_Clear_**
 
 Open sound with high brights and deep bass down to bass woofer level.
 
 Works best for natural recorded music without much editing, movies without many "sound effects" and similar.
 
-#### _Balanced_
+**_Balanced_**
 
 Open sound with high brights with a more balanced bass response.
 
 Works best for semi-natural recorded music, where "bass enhancements" took place, or heavy compression was used. Works with some movies, if not too much bass effects were used.
 
-#### _Universal_
+**_Universal_**
 
 Muted brights, with lower bass response and muted lower mids.
 
