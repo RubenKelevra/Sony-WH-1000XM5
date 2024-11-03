@@ -8,7 +8,7 @@ Equalizer preset for Sony WH-1000XM5
 
 #### Internal Equalizer
 
-<img src="EQ Sony XM5.png" alt="Flat App Equalizer Settings, Bass +8" height="600"/>
+<img src="EQ Sony XM5.png" alt="Flat App Equalizer Settings, Bass +8" height="300"/>
 
 #### Programs
 
