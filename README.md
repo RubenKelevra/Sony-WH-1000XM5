@@ -34,6 +34,14 @@ _[More info about this filter](https://github.com/ShanonPearce/ASH-Listening-Set
 
 _[More info about this filter](https://github.com/ShanonPearce/ASH-Listening-Set/wiki/Additional-Filters)_
 
+#### Usage
+
+Open easy-effects and add a convoluter filter, import the three files specified above. Afterwards Version 2 profiles should find those impulse files automatically when loaded.
+
+**Load the profile**
+
+You can load the profile including the Equalizer settings for version 2 under `/profiles/Version 2`.
+
 ### Version 1.0
 
 #### Internal Equalizer
@@ -68,11 +76,11 @@ Muted brights, with lower bass response and muted lower mids.
 
 Works best for music which was heavily edited, like Agrotech, EDM, Pop Music, Hip-Hop and Movies with heavy soundeffects, where the bassline would just drown out the details otherwise. In short it's more for an easy listening experience where the sound editors expected bad playback devices.
 
-## Usage
+#### Usage
 
-### Load the profile 
+**Load the profile**
 
-You can load the profile including the Equalizer settings from the most up-to-date version under `/profiles`.
+You can load the profile including the Equalizer settings for version 1 under `/profiles/Version 1`.
 
 ### Additional information
 
@@ -84,9 +92,3 @@ Some filters are intentionally deactivated:
 
 Note: The first equalizer are intentionally empty, it is used to reduce the input volume to roughtly the same amount the second EQ changes it. So it won't blow your ears out to deactivate the (real) second EQ, if you want to compare.
 
-
-## Known issues
-
-- <strike>Base is to "rumbly" on some tracks, especially Agrotech and Hip-Hop/Rap.</strike>
-- <strike>Brights (around 3kHz) may sound to harsh on some tracks, especially Agrotech.</strike>
-- Requires high volume listening, otherwise fill fall flat. Loudness filter on top does absolutly not help to improve this.
